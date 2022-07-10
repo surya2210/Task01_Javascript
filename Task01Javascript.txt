@@ -1,0 +1,33 @@
+1.Difference Between Http1 and Http2.
+
+
+Http1-
+Http1 is a Hyper text tranfer Protocal1
+Http1 is slower in speed compared to Http2
+HTTP1 Is Textual meaning
+Data Compression Is done by itself
+
+HTTP2-
+Http1 is a Hyper text tranfer Protocal2
+Http2 Is Faster in Speed.
+Http2 Is Binary
+Data Compression Is Done By HPACK
+
+2.What Is Object and its Internal Representation?
+
+Object is a instance Through Which we can Access members(properites/Values).
+
+Three Ways to create Object.
+1.ObjectLiteral
+2.Interface of Object.
+3.Object Constructor.
+
+Object can be accesses in two ways:Dot notation and Bracket Notation.
+
+Object Notation:Objectname.Properties
+Bracket Notation:Objectname['Properties']
+
+Create an Object as Below:
+let Obj={prop1:value1,
+         prop2:value2,
+};
